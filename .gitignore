@@ -1,4 +1,6 @@
-*.class
-
-/bin
-/CSharp_2.03
+target
+.classpath
+.project
+*.iml
+.idea
+.DS_Store

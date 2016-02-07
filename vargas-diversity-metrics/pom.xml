@@ -1,0 +1,25 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+        <groupId>ch.uzh.ifi.ddis.mymedialite</groupId>
+		<artifactId>my-media-graph</artifactId>
+		<version>1.0-SNAPSHOT</version>
+		<relativePath>..</relativePath>
+	</parent>
+	<artifactId>vargas-diversity-metrics</artifactId>
+	<name>The rank sensitive and relevance aware diversity and novelty metrics proposed in Vargas and Castells at RecSys 2011 (saul.vargas@uam.es)</name>
+    
+	<build>
+        
+		<plugins>
+            
+		</plugins>
+        
+	</build>
+    
+    <dependencies>
+        
+    </dependencies>
+
+</project>
