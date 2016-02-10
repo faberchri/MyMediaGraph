@@ -1,7 +1,7 @@
 # MyMediaGraph
 
 A fork of the [MyMediaLite](http://mymedialite.net) framework for recommendation algorithm evaluation with mainly two additions:
-* A library of graph vertex ranking recommendation algorithms
+* A library of graph vertex ranking recommendation algorithms (`my-media-graph-extension`)
 * Various diversity metrics (`my-media-lite-4j/src/main/java/org/mymedialite/eval/measures/diversity`)
 
 ## How to use
